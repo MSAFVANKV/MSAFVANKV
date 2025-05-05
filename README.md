@@ -1,50 +1,32 @@
-# Hello, I'm [Your Name] 👋
+<h1 align="center">Hi 👋, I'm MUHAMMED SAFVAN K V</h1>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
-Welcome to my GitHub profile! I'm a passionate web developer specializing in full-stack technologies. I love building interactive and scalable applications with a focus on clean, maintainable code.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msafvankv&label=Profile%20views&color=0e75b6&style=flat" alt="msafvankv" /> </p>
 
-### 🚀 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msafvankv" alt="msafvankv" /></a> </p>
 
-- 🧑‍💻 I specialize in **MERN stack**, working with MongoDB, Express.js, React, and Node.js.
-- 🌍 I work with multi-language support, including **Arabic, Hindi, Malayalam**, and **English**.
-- 🛠️ Currently diving deep into **Next.js** and **React** for server-side rendering and modern web development.
-- 🔄 Always learning new technologies and improving my skills.
-- 💼 Check out my portfolio: [Your Portfolio Link]
+- 🔭 I’m currently working on [B2B platform](www.ayaboo.com)
 
----
+- 🌱 I’m currently learning **REACT NATIVE And ELECTRONEJS**
 
-### 📚 Technologies & Tools I Work With
+- 👨‍💻 All of my projects are available at [https://my-portfolio-2024.onrender.com](https://my-portfolio-2024.onrender.com)
 
-- **Frontend**: React, MUI, HTML5, CSS3, TypeScript
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, Vite, Next.js, React Hook Form, Formik, Yup
+- 💬 Ask me about **MERN**
 
----
+- 📫 How to reach me **mskvphed@gmail.com**
 
-### 🌟 Projects
+- 📄 Know about my experiences [https://my-portfolio-2024.onrender.com](https://my-portfolio-2024.onrender.com)
 
-1. **Uracca - Fashion Brand**: A multi-platform fashion store for women, boys, and kids.
-2. **Real-Time Chat Application**: A messaging system with MongoDB as a backend.
-3. **Parcel Sending Module**: Using Formik and Yup for product detail validation.
-4. **Media File Selection**: A React application that supports advanced file filtering and selection.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-safvan-kv-648388250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-safvan-kv-648388250/" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### 📈 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msafvankv&show_icons=true&locale=en&layout=compact" alt="msafvankv" /></p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msafvankv&show_icons=true&locale=en" alt="msafvankv" /></p>
 
----
-
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](Your LinkedIn URL)
-- 📧 Email me at [Your Email]
-- 🌐 [Personal Website/Blog](Your Website URL)
-
----
-
-Thank you for checking out my profile! I’m open to collaborating on exciting projects or discussing the latest in web development.
-
-<!--
-   If you're using this template, make sure to replace placeholders with your personal information.
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msafvankv&" alt="msafvankv" /></p>
