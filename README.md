@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msafvankv" alt="msafvankv" /></a> </p>
 
-- 🔭 I’m currently working on [B2B platform](www.ayaboo.com)
+- 🔭 I’m currently working on [B2B platform](https://github.com/haashtech/B2B_Client_2024.git)
 
 - 🌱 I’m currently learning **REACT NATIVE And ELECTRONEJS**
 
